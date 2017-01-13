@@ -1,11 +1,11 @@
 linuxmuster.net documentation
 #############################
 
-.. image:: https://travis-ci.org/linuxmuster-docs/all-of-me.svg?branch=master
+.. image:: https://travis-ci.org/linuxmuster-docs/all-of-me.svg?branch=v7
     :target: https://travis-ci.org/linuxmuster-docs/all-of-me
 
-.. image:: http://readthedocs.org/projects/linuxmuster/badge/?version=latest
-    :target: http://docs.linuxmuster.net/de/latest/?badge=latest
+.. image:: http://readthedocs.org/projects/linuxmuster/badge/?version=v7
+    :target: http://docs.linuxmuster.net/de/v7/?badge=v7
     :alt: Documentation Status
 
 ::
@@ -13,9 +13,9 @@ linuxmuster.net documentation
   All of me, why take not all of me.
                    -- Seymour Simons
 
-Die gesamte Dokumentation zu linuxmuster.net.
+Die gesamte Dokumentation zu linuxmuster.net v7
 
-The full documentation of linuxmuster.net.
+The full documentation of linuxmuster.net v7
 
 Installation
 ++++++++++++

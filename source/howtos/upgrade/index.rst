@@ -1,14 +1,10 @@
 Upgrade linuxmuster.net
 =======================
+
+The only upgrade path from pre 7.0 will be upgrade to 6.2, then migrate
   
 .. toctree::
    :maxdepth: 1
 
-   upgrade-61-to-62
-   upgrade-60-to-62
-   upgrade-pre60-to-62  
- 
-..
-   upgrade-60-to-61
-
+   upgrade-to-70
 

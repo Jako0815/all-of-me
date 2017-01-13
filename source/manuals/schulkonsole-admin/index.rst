@@ -3,26 +3,4 @@
 Schulkonsole nutzen
 ===================
 
-Aufgerufen wird die *Schulkonsole* mittels `<https://server:242>`_ in
-einem Webbrowser.
-
-.. figure:: media/schulkonsole-login-admin.png
-   :align: center
-   :alt: Login der Schulkonsole als Administrator
-
-Nach der Anmeldung als ``administrator`` findet man im Hauptmenü
-folgende Einstellungsmöglichkeiten
-
-.. toctree::
-   :caption: Die Schulkonsole aus Sicht des Administrators
-   :maxdepth: 1
-
-   account
-   settings
-   user
-   quota
-   printer
-   hosts
-   linbo
-   repair
-   
+Die Schulkonsole wurde neu geschrieben. -> Doku muss noch erstellt werden.
